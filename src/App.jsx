@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import Hero from "./components/Hero/Hero.jsx";
 import Cards from "./components/Cards/Cards.jsx";
+import Content from "./components/Content/Content.jsx";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <Cards/>
+      <Content/>
     </>
   );
 };

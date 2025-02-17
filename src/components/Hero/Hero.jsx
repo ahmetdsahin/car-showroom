@@ -3,7 +3,7 @@ import photo1 from "../../assets/img/photo1.png";
 
 const Hero = () => {
   return (
-    <div className="container  min-h-[620px] relative mx-auto ">
+    <div className="container mb-10 relative mx-auto ">
     <div className="relative ">
       <img src={photo1} alt="Luxe Drive" className=" w-full  max-h-[520px] " />
       <div className="absolute inset-0 flex flex-col items-center justify-center">
