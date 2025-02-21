@@ -7,23 +7,23 @@ import { CiMenuFries } from "react-icons/ci";
 const NavLinks = [
   {
     id: "1",
-    name: "ANASAYFA",
+    name: "HOMEPAGE",
     link: "/#",
   },
   {
     id: "2",
-    name: "ARABA FİLOSU",
-    link: "/#arabafilosu",
+    name: "VEHICLE FLEET",
+    link: "/#vehiclefleet",
   },
   {
     id: "3",
-    name: "BLOG",
-    link: "/#blog",
+    name: "BLOGS",
+    link: "/#blogs",
   },
   {
     id: "4",
-    name: "HAKKIMIZDA",
-    link: "/#hakkimizda",
+    name: "ABOUT",
+    link: "/#about",
   },
 ];
 
